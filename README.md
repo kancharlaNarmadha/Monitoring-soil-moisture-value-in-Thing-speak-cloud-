@@ -1,6 +1,6 @@
 ## NAME: Kancharla Narmadha
 ## REG. NO. : 212222110016
-# Monitoring-soil-moisture-value-in-Thing-speak-cloud
+# Experiment 5: Monitoring soil moisture value in Thing speak cloud
 # Uploading soil moisture sensor data in Thing Speak cloud
 
 # AIM:
